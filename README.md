@@ -9,7 +9,7 @@ Este repositório contém os manifestos utilizados na apresentação.
 | Path | Application | Description |
 |------|-------------|-------------|
 | [app](app-of-apps/) | App of Apps | Manifesto principal que contempla todos os demais recursos/manifestos que serão aplicados no cluster |
-| [conf](conf/) | Definição dos manifestos que serão utilizados pelo App of Apps |
+| [conf](conf/) | Apps Manifests | Definição dos manifestos que serão utilizados pelo App of Apps |
 | [ingress-nginx](nginx-ingress/) | NGINX Ingress | Manifesto para instalação do NGINX ingress controller |
 
 ## Requisitos:
