@@ -45,3 +45,13 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 ```bash
 kubectl apply -f app/app-of-apps.yaml
 ```
+
+### Links
+
+* Install ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd](https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd)
+* Login to ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli](https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli)
+* ArgoCD Configuration: [https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/)
+* ArgoCD Application Config: [https://github.com/tfinardi/argocd-demo/argo-app-conf/](https://github.com/tfinardi/argocd-demo/argo-app-conf/)
+* WeaveWorks Microservices Demo Application: [https://github.com/microservices-demo/microservices-demo/tree/master/deploy/kubernetes](https://github.com/microservices-demo/microservices-demo/tree/master/deploy/kubernetes)
+* Monitoring Stack: [https://github.com/microservices-demo/microservices-demo/tree/master/deploy/kubernetes/manifests-monitoring](https://github.com/microservices-demo/microservices-demo/tree/master/deploy/kubernetes/manifests-monitoring)
+* Ingress Nginx: [https://kubernetes.github.io/ingress-nginx](https://kubernetes.github.io/ingress-nginx)
