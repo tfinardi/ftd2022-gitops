@@ -4,7 +4,7 @@ Este repositório contém os manifestos utilizados na apresentação.
 
 ## Apresentação:
 
-[![Slides](slides.png)](https://www.canva.com/design/DAFFjQG1wDs/CDrxfeVx9TZ9wsDPdU2Ofw/view)
+[![Slides](img/slides.png)](https://www.canva.com/design/DAFFjQG1wDs/CDrxfeVx9TZ9wsDPdU2Ofw/view)
 
 
 | Path | Application | Description |
