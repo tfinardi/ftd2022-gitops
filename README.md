@@ -15,4 +15,4 @@ Este repositório contém os manifestos utilizados na apresentação.
 ## Requisitos:
 
 - Um cluster [Kubernetes](https://kubernetes.io/) local ou na núvem.
-- Instalar o [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+- Instalar o [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) no cluster.
