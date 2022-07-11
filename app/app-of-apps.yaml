@@ -7,7 +7,7 @@ metadata:
 spec:
   project: aks-bootstrap
   source:
-    repoURL: https://github.com/tfinardi/argocd-aks-bootstrap.git
+    repoURL: https://github.com/tfinardi/ftd2022-gitops.git
     targetRevision: HEAD
     path: conf
   destination:
