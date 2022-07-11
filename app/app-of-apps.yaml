@@ -5,7 +5,7 @@ metadata:
   name: app-of-apps
   namespace: argocd
 spec:
-  project: aks-bootstrap
+  project: default
   source:
     repoURL: https://github.com/tfinardi/ftd2022-gitops.git
     targetRevision: HEAD
